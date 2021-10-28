@@ -1,5 +1,4 @@
-# pictogram-to-sense
-Mapping pictograph symbols to WordNet word-senses
+# Pictogram to Sense: mapping pictographic symbols to WordNet synsets
 
 Pictogram is the term used by the Augmentative and Alternative Communication (AAC) community for an image with a label that represents a place, person, action, object and animal. AAC systems like the shown below allow message construction and communication by arranging pictograms in sequence. 
 
