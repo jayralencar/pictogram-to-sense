@@ -23,5 +23,5 @@ For evaluating our proposal, we attributed synsets to 900 of the pictograms from
 Execute the notebooks in sequence:
 
 1. Dataset Creation [Notebook](https://github.com/jayralencar/pictogram-to-sense/blob/main/Download_Dataset.ipynb)
-2. Fine-tuning [Notebook] (https://github.com/jayralencar/pictogram-to-sense/blob/main/CLIP_fine_tuning.ipynb)
+2. Fine-tuning [Notebook](https://github.com/jayralencar/pictogram-to-sense/blob/main/CLIP_fine_tuning.ipynb)
 3. Evaluating [Notebook](https://github.com/jayralencar/pictogram-to-sense/blob/main/Evaluation.ipynb)
